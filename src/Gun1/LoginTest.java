@@ -3,8 +3,9 @@ package Gun1;
 public class LoginTest {
     public static void main(String[] args) {
 
-        System.out.println("Yeni Login Test ");
+        System.out.println("yeni Login Test");
+        System.out.println("Login Test");
+        System.out.println("Sepet testi");
 
-        System.out.println("Login Test 1");
     }
 }
